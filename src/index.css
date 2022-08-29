@@ -36,6 +36,9 @@ body {
   height: 2rem;
   width: 6rem;
   color: blue;
+  border-radius: 1rem;
+  border: aqua;
+  border-style: double;
 }
 
 .button:hover {
